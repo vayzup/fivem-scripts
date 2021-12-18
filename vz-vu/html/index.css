@@ -1,0 +1,41 @@
+body {
+    background: none !important;
+}
+
+#container {
+    font-size: 20px;
+    padding: 25px;
+    color: white;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #2D333D;
+    height: 110px;
+    width: 300px;
+    border-radius: 7px;
+}
+
+button {
+    border:0px;
+    border-radius: 3px;
+    background-color: #3F536D;
+    color:#fff;
+    padding: 12px;
+}
+
+input {
+    border:0;
+    background-color: transparent;
+    color:#FFF;
+    border-bottom: 2px solid #808B99;
+    margin-bottom: 5px;
+    width: 100%;
+    font-size: 15px;
+    padding: 12px;
+}
+.btn-danger{
+    background-color: #db0000;
+    color:#FFF;
+
+}
